@@ -1,2 +1,2 @@
 # pcap
-Network Packet
+취약점, 악성코드 C2 통신, DoS/DDoS 공격과 관련된 네트워크 트래픽을 공유하는 저장소입니다.
